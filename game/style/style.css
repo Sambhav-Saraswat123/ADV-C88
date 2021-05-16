@@ -1,0 +1,23 @@
+#getCraft {
+  width: 150px;
+  height: 40px;
+}
+
+#canvas {
+  border-width: 10px;
+  background-color: white;
+  border-style: ridge;
+}
+
+.width-auto {
+  width: 500px;
+  padding: 2px;
+  cursor: pointer;
+}
+
+.body-background {
+  background-image: url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+  background-position: center;
+  background-size: cover;
+}
+/*# sourceMappingURL=style.css.map */
